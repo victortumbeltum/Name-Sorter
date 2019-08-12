@@ -1,0 +1,7 @@
+C:\Test\Name Sorter\ConsoleApp1\bin\Debug\name-sorter.exe.config
+C:\Test\Name Sorter\ConsoleApp1\bin\Debug\name-sorter.exe
+C:\Test\Name Sorter\ConsoleApp1\bin\Debug\name-sorter.pdb
+C:\Test\Name Sorter\ConsoleApp1\obj\Debug\name-sorter.csprojAssemblyReference.cache
+C:\Test\Name Sorter\ConsoleApp1\obj\Debug\name-sorter.csproj.CoreCompileInputs.cache
+C:\Test\Name Sorter\ConsoleApp1\obj\Debug\name-sorter.exe
+C:\Test\Name Sorter\ConsoleApp1\obj\Debug\name-sorter.pdb

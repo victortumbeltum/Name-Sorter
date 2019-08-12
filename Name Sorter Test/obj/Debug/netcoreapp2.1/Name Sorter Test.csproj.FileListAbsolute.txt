@@ -1,0 +1,14 @@
+C:\Test\Name Sorter\Name Sorter Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Test\Name Sorter\Name Sorter Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Test\Name Sorter\Name Sorter Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Test\Name Sorter\Name Sorter Test\bin\Debug\netcoreapp2.1\Name Sorter Test.deps.json
+C:\Test\Name Sorter\Name Sorter Test\bin\Debug\netcoreapp2.1\Name Sorter Test.runtimeconfig.json
+C:\Test\Name Sorter\Name Sorter Test\bin\Debug\netcoreapp2.1\Name Sorter Test.runtimeconfig.dev.json
+C:\Test\Name Sorter\Name Sorter Test\bin\Debug\netcoreapp2.1\Name Sorter Test.dll
+C:\Test\Name Sorter\Name Sorter Test\bin\Debug\netcoreapp2.1\Name Sorter Test.pdb
+C:\Test\Name Sorter\Name Sorter Test\obj\Debug\netcoreapp2.1\Name Sorter Test.csprojAssemblyReference.cache
+C:\Test\Name Sorter\Name Sorter Test\obj\Debug\netcoreapp2.1\Name Sorter Test.csproj.CoreCompileInputs.cache
+C:\Test\Name Sorter\Name Sorter Test\obj\Debug\netcoreapp2.1\Name Sorter Test.AssemblyInfoInputs.cache
+C:\Test\Name Sorter\Name Sorter Test\obj\Debug\netcoreapp2.1\Name Sorter Test.AssemblyInfo.cs
+C:\Test\Name Sorter\Name Sorter Test\obj\Debug\netcoreapp2.1\Name Sorter Test.dll
+C:\Test\Name Sorter\Name Sorter Test\obj\Debug\netcoreapp2.1\Name Sorter Test.pdb
